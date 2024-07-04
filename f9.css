@@ -1,0 +1,72 @@
+body{
+    background-color: black;
+    color: white;
+    /* align-items: center;
+    text-align: center; */
+    margin-top: 10px;
+    /* background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-size: 10px;
+    background-repeat: no-repeat;
+    background-position: 10px;
+    background-attachment: fixed;
+    background-image: -webkit-linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./netflix11.jpeg); 
+    background-size: cover; 
+}
+.c{
+    align-items: center;
+    text-align: center;
+}
+.h2{
+    font-size: 22px;
+    margin-top: 150px;
+}
+.h3{
+    font-size: 20px;
+}
+.h4{
+    font-size: 17px;
+}
+.input-field{
+    background-color: #333;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    padding: 10.5px;
+    width: fit-content;
+    width: 300px;
+}
+.log-in{
+    padding: 10px;
+    background-color: red;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    color: #fff;
+}
+.option{
+    display: flex;
+    flex-direction: row;
+    margin-left: 500px;
+    padding-right: 20px;
+}
+.home{
+    /* float: left; */
+    width: 200px;
+    height: auto; 
+} 
+.select{
+    display: flex;
+    /* text-align: left; */
+    justify-content: right;
+    
+}
+.qw{
+    padding: 10px;
+    background-color: red;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    border-radius: 2px;
+}

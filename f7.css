@@ -1,0 +1,57 @@
+body{
+    background-color: black; 
+    color: white;
+     
+    font-family: Arial, sans-serif; 
+    background-image: -webkit-linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./netflix11.jpeg); 
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    padding:10px;
+    border-radius: 6px;
+    width: 300px;
+}
+.container{
+     align-items: center;
+     text-align: center;
+     border-radius: 6px;
+     width: 350px;
+     background-color: rgb(0,0,0,0.7);
+     margin-left: 500px;
+}
+    
+.home{
+    /* position: fixed; */
+    width: 200px;
+    height: auto; 
+}  
+h2{
+    color: white;
+}
+.input-field{
+    background-color: rgb(71, 70, 70);
+    padding: 10px;
+    border: none;
+    border-radius: 4px; 
+    width: 250px;
+}
+.log-in{
+    background-color: red;
+    padding: 10px;
+    background-size: 10px;
+    width: 250px;
+    color: aliceblue;
+    border: none;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+}
+.log-up{
+    background-color: rgb(61, 60, 60);
+    padding: 10px;
+    width: 250px;
+    color: aliceblue;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+}
